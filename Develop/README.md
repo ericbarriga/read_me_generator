@@ -1,23 +1,23 @@
-# read me generator 
+# READ ME GENERATOR
 
 
   ## description 
  
-  this is a app to sace time creating a read me it is deployed by the command line using node index.js
+  this project is for anyone that hates doing readme's with this app if will make it fun and easy ans takes the thinking out of it 
 
 
   ## install
 
-use npm i
+npm i
 
   ## contribution 
 
-  just send a email or make a pull request
+  pull request
 
 
   ## test 
 
-  manually
+  manually 
 
 
   ## gitHub
